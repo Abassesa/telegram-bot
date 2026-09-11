@@ -1,12 +1,12 @@
 
-name = "telegram-bot-panel"
+name = "telegram-bot"
 main = "src/index.js"
 compatibility_date = "2025-09-01"
 workers_dev = true
 
 [[kv_namespaces]]
 binding = "BOT_KV"
-id = "fd01b7322d5a4c09b0ff439e1ef2ada8"
+id = "ENTER-KV-ID"
 
 [assets]
 directory = "./public"
