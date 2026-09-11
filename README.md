@@ -1477,10 +1477,7 @@ npx wrangler tail
 &nbsp;&nbsp;
 <a href="https://instagram.com/x.amirrezaa1"><img src="assets/readme/instagram-logo.svg" alt="Instagram: @x.amirrezaa1" height="76"></a>
 
-| کانال ارتباطی | آیدی | لینک |
-|----------------|------|------|
-| تلگرام | `developer_as` | [t.me/developer_as](https://t.me/developer_as) |
-| اینستاگرام | `x.amirrezaa1` | [instagram.com/x.amirrezaa1](https://instagram.com/x.amirrezaa1) |
+
 
 <a href="README.en.md"><img src="assets/readme/lang-en.svg" alt="Read in English" height="42"></a>
 
