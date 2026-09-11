@@ -964,6 +964,7 @@ tests/             Test suite
 <img src="assets/screens/menu-buttons-fa-dark.jpg" alt="Menu" width="420">
 <img src="assets/screens/v3-services-admin-fa.png" alt="Service administration" width="420">
 <img src="assets/screens/v3-customer-portal-fa.png" alt="Mini App" width="420">
+<img src="assets/screens/users-mobile-fa-dark.jpg" alt="Mobile view" width="240">
 
 </div>
 
