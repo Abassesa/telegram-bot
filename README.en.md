@@ -964,7 +964,6 @@ tests/             Test suite
 <img src="assets/screens/menu-buttons-fa-dark.jpg" alt="Menu" width="420">
 <img src="assets/screens/v3-services-admin-fa.png" alt="Service administration" width="420">
 <img src="assets/screens/v3-customer-portal-fa.png" alt="Mini App" width="420">
-<img src="assets/screens/users-mobile-fa-dark.jpg" alt="Mobile view" width="240">
 
 </div>
 
@@ -1003,20 +1002,14 @@ npx wrangler tail
 
 <div align="center">
 
-<img src="assets/readme/creator-amirsedighian.svg" alt="aMirsEdighian" width="420">
 
 ### Built and maintained by **aMirsEdighian**
 
-For support, custom development or bug reports, click a logo:
 
 <a href="https://t.me/developer_as"><img src="assets/readme/telegram-logo.svg" alt="Telegram: @developer_as" height="76"></a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/x.amirrezaa1"><img src="assets/readme/instagram-logo.svg" alt="Instagram: @x.amirrezaa1" height="76"></a>
 
-| Channel | Handle | Link |
-|---------|--------|------|
-| Telegram | `developer_as` | [t.me/developer_as](https://t.me/developer_as) |
-| Instagram | `x.amirrezaa1` | [instagram.com/x.amirrezaa1](https://instagram.com/x.amirrezaa1) |
 
 <a href="README.md"><img src="assets/readme/lang-fa.svg" alt="خواندن به فارسی" height="42"></a>
 
