@@ -1467,11 +1467,9 @@ npx wrangler tail
 
 <div align="center">
 
-<img src="assets/readme/creator-amirsedighian.svg" alt="aMirsEdighian" width="420">
 
 ### ساخته و پشتیبانی‌شده توسط **aMirsEdighian**
 
-برای ارتباط، پشتیبانی، سفارش توسعه یا گزارش مشکل، روی لوگوها بزنید:
 
 <a href="https://t.me/developer_as"><img src="assets/readme/telegram-logo.svg" alt="Telegram: @developer_as" height="76"></a>
 &nbsp;&nbsp;
